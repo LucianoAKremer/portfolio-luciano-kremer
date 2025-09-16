@@ -9,17 +9,17 @@ Este espacio reúne mis proyectos más relevantes.
 ## 🚀 Proyectos Destacados
 
 ### 📊 Data Engineering
-- [ETL Pipeline con Airflow](https://github.com/usuario/etl-data-pipeline)  
+- [ETL Pipeline con Airflow](https://github.com/LucianoAKremer/etl-data-pipeline)  
   Extracción de datos desde una API pública, transformación con pandas y carga en PostgreSQL.  
 
 - [Dashboard Interactivo](https://github.com/usuario/data-dashboard)  
   Visualización de datos con Streamlit.
 
 ### 📱 Mobile Apps
-- [App de Gastos Personales](https://github.com/usuario/personal-expenses-app)  
+- [App de Gastos Personales](https://github.com/LucianoAKremer/personal-expenses-app)  
   Aplicación en Kotlin con persistencia en Room y Jetpack Compose.  
 
-- [App + Backend Microservicios](https://github.com/usuario/mobile-microservices-app)  
+- [App + Backend Microservicios](https://github.com/LucianoAKremer/microservices-analytics)  
   App Android conectada a un backend FastAPI con arquitectura de microservicios.
 
 ### ⚙️ Microservicios
@@ -30,7 +30,7 @@ Este espacio reúne mis proyectos más relevantes.
 - [Portfolio Web](https://usuario.github.io/portfolio-web)  
   Sitio web personal en Next.js + TailwindCSS.  
 
-- [UI Design Showcase](https://github.com/usuario/ui-design-showcase)  
+- [UI Design Showcase](https://github.com/LucianoAKremer/ui-design-showcase)  
   Componentes de UI en React basados en diseños de Figma.
 
 ---
