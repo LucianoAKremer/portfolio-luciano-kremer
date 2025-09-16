@@ -9,7 +9,7 @@ Este espacio reúne mis proyectos más relevantes.
 ## 🚀 Proyectos Destacados
 
 ### 📊 Data Engineering
-- [ETL Pipeline con Airflow](https://github.com/LucianoAKremer/etl-data-pipeline)  
+- [ETL Pipeline](https://github.com/LucianoAKremer/etl-data-pipeline)  
   Extracción de datos desde una API pública, transformación con pandas y carga en PostgreSQL.  
 
 - [Dashboard Interactivo](https://github.com/usuario/data-dashboard)  
