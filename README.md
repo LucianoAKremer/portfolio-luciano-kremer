@@ -12,7 +12,7 @@ Este espacio reúne mis proyectos más relevantes.
 - [ETL Pipeline](https://github.com/LucianoAKremer/etl-data-pipeline)  
   Extracción de datos desde una API pública, transformación con pandas y carga en PostgreSQL.  
 
-- [Dashboard Interactivo](https://github.com/usuario/data-dashboard)  
+- [Dashboard Interactivo](https://github.com/LucianoAKremer/interactive-dashboard)  
   Visualización de datos con Streamlit.
 
 ### 📱 Mobile Apps
