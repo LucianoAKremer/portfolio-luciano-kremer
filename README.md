@@ -9,28 +9,28 @@ Este espacio reúne mis proyectos más relevantes.
 ## 🚀 Proyectos Destacados
 
 ### 📊 Data Engineering
-- [ETL Pipeline](https://github.com/LucianoAKremer/etl-data-pipeline)  
+- [ETL Pipeline - Terminado](https://github.com/LucianoAKremer/etl-data-pipeline)  
   Extracción de datos desde una API pública, transformación con pandas y carga en PostgreSQL.  
 
-- [Dashboard Interactivo](https://github.com/LucianoAKremer/interactive-dashboard)  
+- [Dashboard Interactivo - Terminado](https://github.com/LucianoAKremer/interactive-dashboard)  
   Visualización de datos con Streamlit.
 
 ### 📱 Mobile Apps
-- [App de Gastos Personales](https://github.com/LucianoAKremer/personal-expenses-app)  
+- [App de Gastos Personales - Terminado](https://github.com/LucianoAKremer/personal-expenses-app)  
   Aplicación en Kotlin con persistencia en Room y Jetpack Compose.  
 
-- [App + Backend Microservicios](https://github.com/LucianoAKremer/microservices-analytics)  
+- [App + Backend Microservicios - En desarrollo, conectada a la app de gastos personales](https://github.com/LucianoAKremer/microservices-analytics)  
   App Android conectada a un backend FastAPI con arquitectura de microservicios.
 
 ### ⚙️ Microservicios
-- [Microservices Analytics](https://github.com/usuario/microservices-analytics)  
+- [Microservices Analytics - En desarrollo](https://github.com/usuario/microservices-analytics)  
   Arquitectura con FastAPI, Node.js y Docker Compose.
 
 ### 🎨 Diseño y Web
-- [Portfolio Web](https://usuario.github.io/portfolio-web)  
+- [Portfolio Web - En desarrollo](https://usuario.github.io/portfolio-web)  
   Sitio web personal en Next.js + TailwindCSS.  
 
-- [UI Design Showcase](https://github.com/LucianoAKremer/ui-design-showcase)  
+- [UI Design Showcase - En desarrollo](https://github.com/LucianoAKremer/ui-design-showcase)  
   Componentes de UI en React basados en diseños de Figma.
 
 ---
