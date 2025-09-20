@@ -16,7 +16,7 @@ Este espacio reúne mis proyectos más relevantes.
   Visualización de datos con Streamlit.
 
 ### 📱 Mobile Apps
-- [App de Gastos Personales - Terminado](https://github.com/LucianoAKremer/personal-expenses-app)  
+- [App de Gastos Personales - En desarrollo](https://github.com/LucianoAKremer/personal-expenses-app)  
   Aplicación en Kotlin con persistencia en Room y Jetpack Compose.  
 
 - [App + Backend Microservicios - En desarrollo, conectada a la app de gastos personales](https://github.com/LucianoAKremer/microservices-analytics)  
