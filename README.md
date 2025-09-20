@@ -23,14 +23,14 @@ Este espacio reúne mis proyectos más relevantes.
   App Android conectada a un backend FastAPI con arquitectura de microservicios.
 
 ### ⚙️ Microservicios
-- [Microservices Analytics - En desarrollo](https://github.com/usuario/microservices-analytics)  
+- [Microservices Analytics - En desarrollo](https://github.com/LucianoAKremer/microservices-analytics.git)  
   Arquitectura con FastAPI, Node.js y Docker Compose.
 
 ### 🎨 Diseño y Web
 - [Portfolio Web - En desarrollo](https://usuario.github.io/portfolio-web)  
   Sitio web personal en Next.js + TailwindCSS.  
 
-- [UI Design Showcase - En desarrollo](https://github.com/LucianoAKremer/ui-design-showcase)  
+- [UI Design Showcase - En desarrollo](https://github.com/LucianoAKremer/ui-design-showcase.git) 
   Componentes de UI en React basados en diseños de Figma.
 
 ---
