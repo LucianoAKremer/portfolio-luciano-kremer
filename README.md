@@ -15,7 +15,7 @@ Este espacio reúne mis proyectos más relevantes.
 - [Dashboard Interactivo](https://github.com/LucianoAKremer/interactive-dashboard)  
   Visualización de datos con Streamlit.
 
-- [Proyecto de Gestión de Datos -BI y Modelado Relaciona)](https://github.com/LucianoAKremer/Proyecto-SQL-Normalizacion-Migracion-Vistas)
+- [Proyecto de Gestión de Datos -BI y Modelado Relaciona](https://github.com/LucianoAKremer/Proyecto-SQL-Normalizacion-Migracion-Vistas)
   Diseño y migración de modelo relacional a BI con SQL Server y SSMS, implementando vistas para KPIs. Aprendí normalización, ETL implícito y liderazgo en equipo colaborativo.
 
 ### 📱 Mobile Apps
