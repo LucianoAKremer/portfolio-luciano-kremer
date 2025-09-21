@@ -9,14 +9,16 @@ Este espacio reúne mis proyectos más relevantes.
 ## 🚀 Proyectos Destacados
 
 ### 📊 Data Engineering
-- [ETL Pipeline - Terminado](https://github.com/LucianoAKremer/etl-data-pipeline)  
+- [ETL Pipeline](https://github.com/LucianoAKremer/etl-data-pipeline)  
   Extracción de datos desde una API pública, transformación con pandas y carga en PostgreSQL.  
 
-- [Dashboard Interactivo - Terminado](https://github.com/LucianoAKremer/interactive-dashboard)  
+- [Dashboard Interactivo](https://github.com/LucianoAKremer/interactive-dashboard)  
   Visualización de datos con Streamlit.
 
+- [Proyecto de Gestión de Datos (BI y Modelado Relacional)](https://github.com/LucianoAKremer/Proyecto-SQL-Normalizacion-Migracion-Vistas)
+
 ### 📱 Mobile Apps
-- [App de Gastos Personales - En desarrollo](https://github.com/LucianoAKremer/personal-expenses-app)  
+- [App de Gastos Personales](https://github.com/LucianoAKremer/personal-expenses-app)  
   Aplicación en Kotlin con persistencia en Room y Jetpack Compose.  
 
 - [App + Backend Microservicios - En desarrollo, conectada a la app de gastos personales](https://github.com/LucianoAKremer/microservices-analytics)  
