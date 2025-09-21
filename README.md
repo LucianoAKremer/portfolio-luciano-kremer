@@ -35,6 +35,7 @@ Este espacio reúne mis proyectos más relevantes.
   Sitio web personal en Next.js + TailwindCSS.  
 
 - [UI Design Showcase - En desarrollo](https://github.com/LucianoAKremer/ui-design-showcase.git) 
+
   Componentes de UI en React basados en diseños de Figma.
 
 ---
