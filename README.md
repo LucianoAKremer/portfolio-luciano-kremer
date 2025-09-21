@@ -41,7 +41,7 @@ Este espacio reúne mis proyectos más relevantes.
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** Kotlin, Python, Java, SQL, Haskell (básico).
+- **Lenguajes:** Kotlin, Python, Java, SQL, TSQL, Haskell (básico).
 - **Data:** pandas, Airflow, dbt, PostgreSQL.
 - **Mobile:** Kotlin, Jetpack Compose, Retrofit.
 - **Backend:** FastAPI, Node.js, Express.
