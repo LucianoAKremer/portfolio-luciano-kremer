@@ -16,7 +16,7 @@ Este espacio reúne mis proyectos más relevantes.
   Visualización de datos con Streamlit.
 
 - [Proyecto de Gestión de Datos - BI y Modelado Relacional](https://github.com/LucianoAKremer/Proyecto-SQL-Normalizacion-Migracion-Vistas)
-- 
+  
   Diseño y migración de modelo relacional a BI con SQL Server y SSMS, implementando vistas para KPIs. Aprendí normalización, ETL implícito y liderazgo en equipo colaborativo.
 
 ### 📱 Mobile Apps
