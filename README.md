@@ -43,10 +43,10 @@ Este espacio reúne mis proyectos más relevantes.
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguajes:** Kotlin, Python, Java, SQL, TSQL, Haskell (básico).
 - **Data:** pandas, Airflow, dbt, PostgreSQL.
-- **Mobile:** Kotlin, Jetpack Compose, Retrofit.
-- **Backend:** FastAPI, Node.js, Express.
+- **Mobile:** Kotlin, Jetpack Compose, Retrofit, Room, SQLite.
+- **Backend:** Microservicios, FastAPI, Node.js, Express, JWT, REST APIs.
 - **Frontend & Diseño:** React, Next.js, TailwindCSS, Figma.
-- **Infraestructura:** Docker, GitHub Actions, GitHub Pages.
+- **Infraestructura:** Docker, GitHub Actions, GitHub Pages, Docker Compose, Swagger/OpenAPI.
 
 ---
 
