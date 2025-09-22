@@ -24,7 +24,7 @@ Este espacio reúne mis proyectos más relevantes.
   Aplicación en Kotlin con persistencia en Room y Jetpack Compose.  
 
 - [App + Microservicios Backend - En desarrollo](https://github.com/LucianoAKremer/microservices-analytics)  
-  Aplicacion desarrollada de Gastos Personales, consumidora de los microservicios ofrecidos por el proyecto: [Microservicios Backend para App de Gastos Personales](https://github.com/LucianoAKremer/microservices-analytics).
+  Integracion de [App de Gastos Personales](https://github.com/LucianoAKremer/personal-expenses-app) con [Microservicios Backend para App de Gastos Personales](https://github.com/LucianoAKremer/microservices-analytics).
 
 ### ⚙️ Microservicios
 - [Microservicios Backend para App de Gastos Personales](https://github.com/LucianoAKremer/microservices-analytics)  
