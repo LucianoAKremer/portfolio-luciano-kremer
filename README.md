@@ -23,13 +23,13 @@ Este espacio reúne mis proyectos más relevantes.
 - [App de Gastos Personales](https://github.com/LucianoAKremer/personal-expenses-app)  
   Aplicación en Kotlin con persistencia en Room y Jetpack Compose.  
 
-- [Microservicios Backend para App de Gastos Personales](https://github.com/LucianoAKremer/microservices-analytics)  
-  Backend robusto y escalable basado en arquitectura de microservicios (FastAPI, Node.js, PostgreSQL, Docker) para una app     Android de control de gastos. Incluye autenticación JWT, CRUD de gastos/categorías, análisis avanzado y generación de        templates de gráficos, todo orquestado con Docker Compose y documentado con Swagger/OpenAPI.
+- [App + Microservicios Backend - En desarrollo](https://github.com/LucianoAKremer/microservices-analytics)  
+  Aplicacion desarrollada de Gastos Personales, consumidora de los microservicios ofrecidos por el proyecto: [Microservicios Backend para App de Gastos Personales](https://github.com/LucianoAKremer/microservices-analytics).
 
 ### ⚙️ Microservicios
-- [Microservices Analytics - En desarrollo](https://github.com/LucianoAKremer/microservices-analytics.git)  
-  Arquitectura con FastAPI, Node.js y Docker Compose.
-
+- [Microservicios Backend para App de Gastos Personales](https://github.com/LucianoAKremer/microservices-analytics)  
+  Backend robusto y escalable basado en arquitectura de microservicios (FastAPI, Node.js, PostgreSQL, Docker) para una app     Android de control de gastos. Incluye autenticación JWT, CRUD de gastos/categorías, análisis avanzado y generación de        templates de gráficos, todo orquestado con Docker Compose y documentado con Swagger/OpenAPI.
+  
 ### 🎨 Diseño y Web
 - [Portfolio Web - En desarrollo](https://usuario.github.io/portfolio-web)  
   Sitio web personal en Next.js + TailwindCSS.  
