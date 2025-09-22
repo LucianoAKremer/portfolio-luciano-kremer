@@ -23,8 +23,8 @@ Este espacio reúne mis proyectos más relevantes.
 - [App de Gastos Personales](https://github.com/LucianoAKremer/personal-expenses-app)  
   Aplicación en Kotlin con persistencia en Room y Jetpack Compose.  
 
-- [App + Backend Microservicios - En desarrollo, conectada a la app de gastos personales](https://github.com/LucianoAKremer/microservices-analytics)  
-  App Android conectada a un backend FastAPI con arquitectura de microservicios.
+- [Microservicios Backend para App de Gastos Personales](https://github.com/LucianoAKremer/microservices-analytics)  
+  Backend robusto y escalable basado en arquitectura de microservicios (FastAPI, Node.js, PostgreSQL, Docker) para una app     Android de control de gastos. Incluye autenticación JWT, CRUD de gastos/categorías, análisis avanzado y generación de        templates de gráficos, todo orquestado con Docker Compose y documentado con Swagger/OpenAPI.
 
 ### ⚙️ Microservicios
 - [Microservices Analytics - En desarrollo](https://github.com/LucianoAKremer/microservices-analytics.git)  
